@@ -1,0 +1,11 @@
+.SubTitulo{
+    color:  black;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+.SubTitulo{
+    background-color: #ffb6b9b0;
+}
